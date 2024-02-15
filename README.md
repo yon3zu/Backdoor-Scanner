@@ -11,6 +11,6 @@
 **Previews**
 
 <image src="https://raw.githubusercontent.com/yon3zu/Backdoor-Scanner/main/preview2.png" height="400">
-  <br><br>
+  <br>
  <image src="https://raw.githubusercontent.com/yon3zu/Backdoor-Scanner/main/preview.png" height="400">
   <br>
